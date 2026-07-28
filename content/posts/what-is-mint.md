@@ -8,7 +8,7 @@ categories: ["Mint"]
 
 In a "Beginner Linux Guide" tutorial, you will often hear people tell you to switch to Mint when coming directly from Windows. But what is Mint?
 
-## What is Linux Mint?
+## Well what even is it?
 
 Linux Mint was made in 2006, based off of Ubuntu. It was made to be an easy switch for new Linux users coming from Windows or other operating systems. As said, it is one of the easiest Linux distros to learn. Mint comes bundled with many programs, including LibreOffice, Firefox, Thunderbird, Transmission, and VLC Media Player. You also have the option to install more software from packages on the web, or with the built in package manager, apt.
 
@@ -18,6 +18,6 @@ First, grab the ISO from the downloads page on the Linux Mint website (I would r
 
 ## What makes Linux Mint so good?
 
-Linux Mint is generally considered a good operating system because of the combination of it's user friendliness and customizability. It maintains the access of other Linux distros, but is also extremely easy to use, which makes it a commonly considered goog operating system.
+Linux Mint is generally considered a good operating system because of the combination of its user friendliness and customizability. It maintains the access of other Linux distros, but is also extremely easy to use, which makes it a commonly considered good operating system.
 
 ---
