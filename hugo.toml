@@ -2,5 +2,4 @@ baseURL = 'https://itscapnmurica.github.io/myblog/'
 locale = 'en-us'
 title = 'My Blog'
 theme = 'PaperMod'
-[params]
-  google_site_verification = "g9EsWPrPvBnh-eMAn_wkB4LmRk7dMpHK57gW29DDoc0"
+
