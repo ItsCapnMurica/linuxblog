@@ -22,9 +22,9 @@ Without it, none of your hardware would actually respond to software.
 
 ## Linux vs. a "Linux distro"
 
-This is where it gets confusing. Linus Torvalds wrote the kernel in 1991 — that's it, just the kernel. Everything you associate with "using Linux" (Arch, Ubuntu, Mint, openSUSE) is a **distribution**: the kernel plus a bunch of other tools (GNU utilities, a package manager, a desktop environment) bundled together.
+This is where it gets confusing. Linus Torvalds wrote the kernel in 1991, that's it, just the kernel. Everything you associate with "using Linux" (Arch, Ubuntu, Mint, openSUSE) is a **distribution**: the kernel plus a bunch of other tools (GNU utilities, a package manager, a desktop environment) bundled together.
 
-So technically, saying "I run Linux" is like saying "I run an engine" — true, but the distro is the whole car built around it.
+So technically, saying "I run Linux" is like saying "I run an engine", true, but the distro is the whole car built around it.
 
 ## Why this matters if you're just starting out
 
