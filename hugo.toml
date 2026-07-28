@@ -1,4 +1,4 @@
-baseURL = 'https://itscapnmurica.github.io/myblog/'
+baseURL = 'https://itscapnmurica.github.io/linuxblog/'
 locale = 'en-us'
 title = 'Linux Blog'
 theme = 'PaperMod'
