@@ -2,3 +2,12 @@ baseURL = 'https://itscapnmurica.github.io/linuxblog/'
 locale = 'en-us'
 title = 'Linux Blog'
 theme = 'PaperMod'
+[menu]
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
