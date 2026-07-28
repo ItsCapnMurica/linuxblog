@@ -2,7 +2,7 @@
 title: "What Is Linux? Understanding the Kernel"
 date: 2026-07-28
 draft: false
-tags: ["kernel", "beginner"]
+tags: ["kernel"]
 categories: ["kernel"]
 ---
 
