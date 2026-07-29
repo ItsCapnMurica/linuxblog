@@ -12,14 +12,14 @@ When you want to boot an OS directly onto your PC, you have to flash the OS to a
 
 There are many different tools used to flash an OS to a USB. Some of them include:
 
--Balena Etcher
--Rufus
--Ventoy
--And many more!
+- Balena Etcher
+- Rufus
+- Ventoy
+- And many more!
 
 ## How do I use Rufus or Balena Etcher?
 
-Rufus and Balena Etcher are very similar programs. Balena Etcher is available on Windows, MacOS, and Linux, while Rufus is only available on Windows. I would reccomend Balena Etcher because it has a nicer UI. To use both of them, though, first choose the ISO you would like to flash. Then choose the USB you would like to flash to, and click flash!
+Rufus and Balena Etcher are very similar programs. Balena Etcher is available on Windows, MacOS, and Linux, while Rufus is only available on Windows. I would recommend Balena Etcher because it has a nicer UI. To use both of them, though, first choose the ISO you would like to flash. Then choose the USB you would like to flash to, and click flash!
 
 ## How do I use Ventoy?
 
