@@ -1,5 +1,5 @@
 ---
-title: "Post Title Here"
+title: "How to boot an OS"
 date: 2026-08-02
 draft: false
 tags: ["Usb"]
