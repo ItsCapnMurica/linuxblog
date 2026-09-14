@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Etching on Linux Blog</title>
+    <link>https://itscapnmurica.github.io/linuxblog/tags/etching/</link>
+    <description>Recent content in Etching on Linux Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://itscapnmurica.github.io/linuxblog/tags/etching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do I flash an OS to a USB?</title>
+      <link>https://itscapnmurica.github.io/linuxblog/posts/how-to-flash/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/posts/how-to-flash/</guid>
+      <description>&lt;p&gt;When you want to boot an OS directly onto your PC, you have to flash the OS to a USB. But how do you do that?&lt;/p&gt;
+&lt;h2 id=&#34;what-tools-can-i-use&#34;&gt;What tools can I use?&lt;/h2&gt;
+&lt;p&gt;There are many different tools used to flash an OS to a USB. Some of them include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Balena Etcher&lt;/li&gt;
+&lt;li&gt;Rufus&lt;/li&gt;
+&lt;li&gt;Ventoy&lt;/li&gt;
+&lt;li&gt;And many more!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-do-i-use-rufus-or-balena-etcher&#34;&gt;How do I use Rufus or Balena Etcher?&lt;/h2&gt;
+&lt;p&gt;Rufus and Balena Etcher are very similar programs. Balena Etcher is available on Windows, MacOS, and Linux, while Rufus is only available on Windows. I would recommend Balena Etcher because it has a nicer UI. To use both of them, though, first choose the ISO you would like to flash. Then choose the USB you would like to flash to, and click flash!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

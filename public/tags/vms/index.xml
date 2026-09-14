@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VMs on Linux Blog</title>
+    <link>https://itscapnmurica.github.io/linuxblog/tags/vms/</link>
+    <description>Recent content in VMs on Linux Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://itscapnmurica.github.io/linuxblog/tags/vms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Virtual Machine?</title>
+      <link>https://itscapnmurica.github.io/linuxblog/posts/virtual-machines/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/posts/virtual-machines/</guid>
+      <description>&lt;p&gt;There are two ways to  boot an operating system, or OS. Those two ways are directly on your PC, or in a VM&lt;/p&gt;
+&lt;h2 id=&#34;but-what-is-a-vm&#34;&gt;But what is a VM?&lt;/h2&gt;
+&lt;p&gt;A VM, or virtual machine, is a way to boot an operating system without doing it on your actual PC. A VM can be used to test out operating systems, open suspicious files, or anything else you could imagine.&lt;/p&gt;
+&lt;h2 id=&#34;what-does-a-vm-do&#34;&gt;What does a VM do?&lt;/h2&gt;
+&lt;p&gt;A VM spoofs real hardware as much as it can while not actually being real hardware, however there are still ways to tell. Even if the OS can tell it is being run in a VM, most don&amp;rsquo;t care. Most OSes you would ever try to run in a VM function no differently than if it was running on real hardware, so no worries about it not booting because of that. One thing you could run into that does care is Anticheat for games, but why are you gaming in a VM?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

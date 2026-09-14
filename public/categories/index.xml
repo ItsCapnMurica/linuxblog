@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on My Blog</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on My Blog</description>
+    <title>Categories on Linux Blog</title>
+    <link>https://itscapnmurica.github.io/linuxblog/categories/</link>
+    <description>Recent content in Categories on Linux Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://itscapnmurica.github.io/linuxblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boot</title>
+      <link>https://itscapnmurica.github.io/linuxblog/categories/boot/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/categories/boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC Booting</title>
+      <link>https://itscapnmurica.github.io/linuxblog/categories/pc-booting/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/categories/pc-booting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kernel</title>
+      <link>https://itscapnmurica.github.io/linuxblog/categories/kernel/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/categories/kernel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mint</title>
+      <link>https://itscapnmurica.github.io/linuxblog/categories/mint/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/categories/mint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual Machines</title>
+      <link>https://itscapnmurica.github.io/linuxblog/categories/virtual-machines/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/categories/virtual-machines/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

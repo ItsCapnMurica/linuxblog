@@ -2,6 +2,7 @@ baseURL = 'https://itscapnmurica.github.io/linuxblog/'
 locale = 'en-us'
 title = 'Linux Blog'
 theme = 'PaperMod'
+enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "Categories"

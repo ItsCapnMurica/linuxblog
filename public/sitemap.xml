@@ -2,17 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2026-07-27T22:11:59-04:00</lastmod>
+    <loc>https://itscapnmurica.github.io/linuxblog/categories/boot/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2026-07-27T22:11:59-04:00</lastmod>
+    <loc>https://itscapnmurica.github.io/linuxblog/categories/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2026-07-27T22:11:59-04:00</lastmod>
+    <loc>https://itscapnmurica.github.io/linuxblog/posts/how-to-boot/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://itscapnmurica.github.io/linuxblog/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://itscapnmurica.github.io/linuxblog/posts/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/usb/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/etching/</loc>
+    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/posts/how-to-flash/</loc>
+    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/categories/pc-booting/</loc>
+    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/distros/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/categories/kernel/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/kernel/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/categories/mint/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/mint/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/categories/virtual-machines/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/tags/vms/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/posts/virtual-machines/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/posts/what-is-mint/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itscapnmurica.github.io/linuxblog/posts/what-is-linux/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mint on Linux Blog</title>
+    <link>https://itscapnmurica.github.io/linuxblog/tags/mint/</link>
+    <description>Recent content in Mint on Linux Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://itscapnmurica.github.io/linuxblog/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Linux Mint?</title>
+      <link>https://itscapnmurica.github.io/linuxblog/posts/what-is-mint/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/posts/what-is-mint/</guid>
+      <description>&lt;p&gt;In a &amp;ldquo;Beginner Linux Guide&amp;rdquo; tutorial, you will often hear people tell you to switch to Mint when coming directly from Windows. But what is Mint?&lt;/p&gt;
+&lt;h2 id=&#34;well-what-even-is-it&#34;&gt;Well what even is it?&lt;/h2&gt;
+&lt;p&gt;Linux Mint was made in 2006, based off of Ubuntu. It was made to be an easy switch for new Linux users coming from Windows or other operating systems. As said, it is one of the easiest Linux distros to learn. Mint comes bundled with many programs, including LibreOffice, Firefox, Thunderbird, Transmission, and VLC Media Player. You also have the option to install more software from packages on the web, or with the built in package manager, apt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

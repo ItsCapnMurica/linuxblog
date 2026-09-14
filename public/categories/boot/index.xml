@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Boot on Linux Blog</title>
+    <link>https://itscapnmurica.github.io/linuxblog/categories/boot/</link>
+    <description>Recent content in Boot on Linux Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://itscapnmurica.github.io/linuxblog/categories/boot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to boot an OS</title>
+      <link>https://itscapnmurica.github.io/linuxblog/posts/how-to-boot/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/posts/how-to-boot/</guid>
+      <description>&lt;p&gt;After you &lt;a href=&#34;https://itscapnmurica.github.io/linuxblog/posts/how-to-flash/&#34;&gt;Flash to a USB&lt;/a&gt;, you should boot it onto your computer. But how do you do that?&lt;/p&gt;
+&lt;h2 id=&#34;how-do-i-boot-to-a-usb&#34;&gt;How do I boot to a USB?&lt;/h2&gt;
+&lt;p&gt;After you etch to your USB of choice, plug it into your computer. Then you will need to enter UEFI, also known as BIOS. You can do this by restarting your computer and spam clicking a specific key (Tip: Look up [Motherboard Name] how to enter BIOS). Then once you are in, drag your USB to the top of boot priority, and save and apply changes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

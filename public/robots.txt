@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://itscapnmurica.github.io/linuxblog/sitemap.xml

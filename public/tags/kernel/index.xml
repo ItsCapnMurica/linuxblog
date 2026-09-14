@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kernel on Linux Blog</title>
+    <link>https://itscapnmurica.github.io/linuxblog/tags/kernel/</link>
+    <description>Recent content in Kernel on Linux Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://itscapnmurica.github.io/linuxblog/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Linux? Understanding the Kernel</title>
+      <link>https://itscapnmurica.github.io/linuxblog/posts/what-is-linux/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://itscapnmurica.github.io/linuxblog/posts/what-is-linux/</guid>
+      <description>&lt;p&gt;A lot of people say &amp;ldquo;Linux&amp;rdquo; and mean a whole operating system — but technically, &lt;strong&gt;Linux is just the kernel&lt;/strong&gt;. Everything else (the desktop, the terminal, the package manager) comes from somewhere else entirely.&lt;/p&gt;
+&lt;h2 id=&#34;so-what-does-the-kernel-actually-do&#34;&gt;So what does the kernel actually do?&lt;/h2&gt;
+&lt;p&gt;The kernel is the core layer that sits between your hardware and every program you run. It handles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Process management&lt;/strong&gt; — deciding which programs get CPU time and when&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memory management&lt;/strong&gt; — allocating and protecting RAM for each running program&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Device drivers&lt;/strong&gt; — talking to your GPU, network card, disk, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File systems&lt;/strong&gt; — reading and writing data to disk&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Networking&lt;/strong&gt; — handling everything from Wi-Fi to raw sockets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Without it, none of your hardware would actually respond to software.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
